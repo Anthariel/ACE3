@@ -3,48 +3,56 @@
   <Package name="Interaction">
     <Key ID="STR_ACE_Interaction_MainAction">
       <English>Interactions</English>
+      <French>Intéractions</French>
       <German>Interaktionen</German>
       <Spanish>Interacciones</Spanish>
       <Czech>Interakce</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_Torso">
       <English>Torso</English>
+      <French>Torse</French>
       <German>Torso</German>
       <Spanish>Torso</Spanish>
       <Czech>Trup</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_Head">
       <English>Head</English>
+      <French>Tête</French>
       <German>Kopf</German>
       <Spanish>Cabeza</Spanish>
       <Czech>Hlava</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_ArmLeft">
       <English>Left Arm</English>
+      <French>Bras Gauche</French>
       <German>Linker Arm</German>
       <Spanish>Brazo izquierdo</Spanish>
       <Czech>Levá paže</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_ArmRight">
       <English>Right Arm</English>
+      <French>Bras Droit</French>
       <German>Rechter Arm</German>
       <Spanish>Brazo derecho</Spanish>
       <Czech>Pravá paže</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_LegLeft">
       <English>Left Leg</English>
+      <French>Jambe Gauche</French>
       <German>Linkes Bein</German>
       <Spanish>Pierna izquierda</Spanish>
       <Czech>Levá noha</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_LegRight">
       <English>Right Leg</English>
+      <French>Jambe Droite</French>
       <German>Rechtes Bein</German>
       <Spanish>Pierna derecha</Spanish>
       <Czech>Pravá hona</Czech>
     </Key>
     <Key ID="STR_ACE_Interaction_Weapon">
       <English>Weapon</English>
+      <French>Arme</French>
       <German>Waffe</German>
       <Spanish>Arma</Spanish>
       <Czech>Zbraň</Czech>
@@ -75,6 +83,7 @@
     </Key>
     <Key ID="STR_ACE_Interaction_OpenDoor">
       <English>Open / Close Door</English>
+      <French>Ouvrir / Fermer une Porte</French>
       <German>Tür öffnen / schließen</German>
       <Spanish>Abrir / Cerrar puerta</Spanish>
       <Polish>Otwórz / Zamknij drzwi</Polish>
@@ -195,6 +204,7 @@
     </Key>
     <Key ID="STR_ACE_Interaction_Back">
       <English>&lt;&lt; Back</English>
+      <French>&lt;&lt; Arrière</French>
       <German>&lt;&lt; Zurück</German>
       <Spanish>&lt;&lt; Atrás</Spanish>
       <Polish>&lt;&lt; Wstecz</Polish>
@@ -303,6 +313,7 @@
     </Key>
     <Key ID="STR_ACE_Interaction_Gestures_Cease_Fire">
       <English>Cease Fire</English>
+      <French>Cesser le feu</French>
       <German>Feuer einstellen</German>
       <Spanish>Alto el fuego</Spanish>
       <Polish>Wstrzymać ogień</Polish>
@@ -670,6 +681,7 @@
     </Key>
     <Key ID="STR_ACE_Interaction_Interact">
       <English>Interact</English>
+      <French>Intéragir</French>
       <German>Interagiere</German>
       <Czech>Interakce</Czech>
       <Russian>Взаимодействовать</Russian>
@@ -678,6 +690,7 @@
     </Key>
     <Key ID="STR_ACE_Interaction_Passengers">
       <English>Passengers</English>
+      <French>Passagers</French>
       <German>Fahrzeuginsassen</German>
       <Spanish>Pasajeros</Spanish>
       <Russian>Пассажиры</Russian>
